@@ -1,0 +1,40 @@
+{
+  "name": "ipsavel",
+  "version": "1.0.0",
+  "description": "bitstamp rest and websocket v1 and v2 api client",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ConsueloBrekke/ipsavel.git"
+  },
+  "keywords": [
+    "est",
+    "btc",
+    "in",
+    "api",
+    "client",
+    "voluptatum",
+    "ullam",
+    "excepturi",
+    "ipsum",
+    "dolorem",
+    "qui",
+    "voluptatem",
+    "error",
+    "transfer",
+    "aut",
+    "provident",
+    "ticker",
+    "autem"
+  ],
+  "author": "ZoeyBrekke",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "~3.7.2",
+    "debug": "~4.3.1",
+    "reconnecting-websocket": "^4.4.0",
+    "request": "~2.88.2",
+    "ws": "^7.4.6"
+  }
+}
